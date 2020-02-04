@@ -1,0 +1,1 @@
+在资产交接单列表（ZICJJ）中增加过滤条件。如下图所示，默认值中配的公式为：GetPersonnelMDValueByUserLoginName("RECID")
